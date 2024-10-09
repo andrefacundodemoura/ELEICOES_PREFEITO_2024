@@ -1,0 +1,3 @@
+Instalação das Libs que serão usadas:
+    pip install pandas
+    pip install matplotlib

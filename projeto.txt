@@ -1,0 +1,53 @@
+Data de inicio: 08/10/2024
+
+Cliente: Rafael redó
+
+Pessoas do projeto:
+    Andre Facundo
+
+
+Tempo para desenvolvimento:1 semana
+
+Descrição do projeto:
+    Carregar e tratar os dados do TSE 
+    e responder a pergunta através de graficos:
+    Como foi o desenpenho de cada candidato a prefeito
+    em mongaguá por regiões?
+  
+    Loty ate Agenor
+    EE. AGENOR DE CAMPOS 
+    EMEF. BARIGUI  
+    EMEF. JACOUB KOUKDJIAN
+    EMEF. REGINA MARIA  
+    EMEF. FLÓRIDA MIRIM      
+
+    Jussara ate Itaoca
+    EMEIEF. PEQUENO PRÍNCIPE   
+
+    Santa Eugenia até Seabra
+    EMEF. HORTENCIA QUINTINO DE FARIA BOTELHO 
+    EMEF. PROF. PEDRO FERNANDES DANTE  
+
+    Atlantica até Aguapeu
+    EMEF. IVONE DE ALMEIDA MONTEIRO
+    EMEF. PREFEITO CASSIMIRO CORREA NETO
+    EMEF. VERA CRUZ  
+    EMEIEF SÍTIO DO PICA PAU AMARELO 
+    EMEIEF. PROF. CÉLIA PUPO DE JESUS  
+
+    Samoa ate a Divisa
+    EE. PROF. AIDA LEDA BAUER DAVIES
+    EE. PROF. ARACY DA SILVA FREITAS 
+    EMEF SIRANA KOUKDJIAN  
+    EMEF. TONICO SILVA    
+
+Banco de dados ou arquivo de dados:
+    Arquivo Base CSV
+    votacao_secao_2020_SP.csv
+
+    Arquivos Limpos CSV
+    municipio2020.csv
+    vereador2020.csv
+    prefeito2020.csv
+Onde vai rodar:
+    Maquina

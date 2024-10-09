@@ -1,0 +1,64 @@
+ARQUIVO DE REGRAS PARA TODO PROJETO PYTHON
+
+Criar um repositorio no GITHUB
+Clonar o repositorio na maquina
+
+ARQUIVOS INICIAIS 
+copia desse arquivo PADRÃO.txt
+    com as regras de desenvolvimeento
+
+testes.ipypnb
+    Arquivo jupter para desenvolvimeento
+    para um ambiente mais facil de Debugar
+    pois no jupter conseguimos trabalhar
+    o codigo fragmentado.
+
+app.py
+    Arquivo de produção
+
+app.txt
+    Arquivo especificando todos os passos do PROJETO
+
+Projeto.txt 
+    Arquivo onde será descrito todos os detalhes do projeto.
+    ESTRUTURA PADRÃO.
+
+    Data de inicio:
+    Cliente:
+    Pessoas do projeto:
+        Andre Facundo
+        outros se houverem
+    Tempo para desenvolvimento:
+    Descrição do projeto:
+        Aqui sera colocada toda a análise do projeto.
+    Banco de dados ou arquivo de dados:
+    Onde vai rodar:
+
+
+
+CRIAR AMBIENTE VIRTUAL 
+    No Terminal
+python -m venv venv
+
+ATIVAR AMBIENTE VIRTUAL
+    No Terminal
+venv/Scripts/activate
+
+No VSCODE selecionar a versão python do ambiente virtual
+
+REGRAS DE DESENVOLVIMENTO 
+
+*O arquivo app.py tera o unico objetivo de entregar os resultados 
+das requisições.
+
+*Toda e qualquer funcionalidades seram feitas em outro arquivo 
+com o nome da funcionalidade.
+    ex:conectadb.py caucularota.py
+
+*Tanto o arquivo e as funções serão nomeadas com letras minusculas.
+
+*As variaveis seram em letras minusculas se houver mais de 1 palavra 
+separar por underline _ . 
+
+BORA CODAR!!!!!!!!!!!!!!!!!
+
